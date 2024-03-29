@@ -73,8 +73,7 @@ As a reviewer on CourseUp, you can expect several benefits and rewards for your 
 - Rewards based on productivity and contribution
 
 ## Team Members 👥
-- [Sanket Suryawanshi](https://github.com/sankezzz)
-- [Aarsh Hadap](https://github.com/aarsh-hadap19)
-- [Prathamesh Kurekar](https://github.com/prathamesshh)
-
+- [RIDDHI DANI]
+- [SUJAL TONGE]
+- [SMERA DURAGKAR]
 Overall, being a reviewer on CourseUp offers you the chance to contribute to a supportive community, enhance your skills, and gain valuable rewards and recognition for your efforts.
